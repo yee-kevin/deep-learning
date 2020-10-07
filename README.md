@@ -8,4 +8,8 @@ Using sklearn Support Vector Classification (SVC) to implement a linear SVM. The
 
 #### 2. HW2 [Code] - Part 1 (Broadcasting), Part 2 (k-means)
 Part 1 (Broadcasting) -  Comparing time measurements using double for-loops, numpy broadcasting and pytorch cpu  
-Part 2 (k-means) - Creating a pytorch k-means algorithm
+Part 2 (k-means) - Creating a pytorch k-means algorithm  
+
+#### 3. HW3 [Code] - Part 1 (SGD for logistic regression in Pytorch), Part 2 (Fully connected neural net in Pytorch)  
+Part 1 (SGD for logistic regression in Pytorch) - Implement SGD for logistic regression using a self generated dataset.  
+Part 2 (Fully connected neural net in Pytorch) - Implement a neural network using the FashionMNIST dataset.  
