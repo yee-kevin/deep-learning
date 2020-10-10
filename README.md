@@ -22,4 +22,4 @@ Part 2 (Finetuning neural network) - Finetuning a neural network using the 102-m
 (c) training only last two layers with pretrained weights  
 
 #### 5. HW5 [Code] - LSTM and GRU to predict language of names  
-Using an LSTM / GRU to predict the language of names  
+Using RNNs (LSTM/GRU) to predict the language of names  
