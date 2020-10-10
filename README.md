@@ -16,3 +16,4 @@ Part 2 - Implement a fully connected neural network (FCNN) using the FashionMNIS
 
 #### 4. HW4 [Code] - Part 1 (Data augmentation), Part 2 (Finetuning neural network)  
 Part 1 (Data Augmentation) - center crop testing, 5-crop testing, varying input size  
+Part 2 (Finetuning neural network) - Finetuning a neural network by (a) training all layers with no pretrained weights (b) training all layers with pretrained weights (c) training only last two layers with pretrained weights  
